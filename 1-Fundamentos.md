@@ -39,7 +39,25 @@ A **Curva de Adoção da Inovação**, criada por **Everett Rogers**, mostra com
 
 Saber onde seu produto se encontra na curva ajuda o PM a **ajustar estratégias de crescimento e marketing**.
 
+![Curva de Inovação](https://blog-strapi-xtree.s3.amazonaws.com/desafio_curva_inovacao_02_203acd2277.jpg)
+*Figura – Curva de Inovação*
+
 ---
+
+### 🔄 Ciclo de Vida do Produto
+
+Todo produto passa por quatro fases principais:
+
+1. **Introdução:** lançamento no mercado; foco em visibilidade e aquisição de usuários.  
+2. **Crescimento:** aumento da base de clientes e melhoria contínua do produto.  
+3. **Maturidade:** estabilização das vendas; foco em eficiência e diferenciação.  
+4. **Declínio:** queda na demanda; decisão entre renovar ou descontinuar.
+
+O papel do PM é reconhecer o estágio atual e adaptar a estratégia para maximizar o valor entregue em cada fase.
+
+![Ciclo de Vida do Produto](https://agendor-blog-uploads.s3.sa-east-1.amazonaws.com/2021/09/02143948/ciclo-de-vida.png)
+
+*Figura – Ciclo de Vida do Produto*
 
 ## 💡 Habilidades Esperadas de um(a) Product Manager
 
@@ -102,9 +120,18 @@ O **modelo Spotify** introduziu os conceitos de **squads, tribos, chapters e gui
 ---
 ## 💡 A Matriz BCG
 
-Aqui está uma representação visual da Matriz BCG para ajudar no entendimento:
+A **Matriz BCG (Boston Consulting Group)** é uma ferramenta clássica de análise de portfólio que ajuda a visualizar o desempenho e o potencial de crescimento dos produtos de uma empresa.  
+Ela classifica os produtos em quatro quadrantes — **Estrelas, Vacas Leiteiras, Interrogações e Abacaxis** — de acordo com dois eixos: **taxa de crescimento do mercado** e **participação relativa de mercado**.
+
+Na **gestão de produtos**, a Matriz BCG é fundamental porque:
+- **Orienta decisões estratégicas**, mostrando onde investir, manter ou descontinuar produtos;
+- **Auxilia no balanceamento do portfólio**, evitando que a empresa dependa de um único sucesso;
+- **Favorece a priorização de esforços e recursos**, alinhando a visão do gerente de produto às metas de negócio;
+- **Permite identificar oportunidades de inovação**, transformando produtos "Interrogação" em futuras "Estrelas".
+
 
 ![Matriz BCG exemplo](https://media.treasy.com.br/media/2018/02/Matriz-BCG.png)
+*Figura – Matriz BCG*
 
 A Matriz se divide em quatro quadrantes que representam diferentes estágios e estratégias de um produto no mercado:
 
@@ -113,7 +140,7 @@ A Matriz se divide em quatro quadrantes que representam diferentes estágios e e
 | ⭐ **Estrelas (Stars)**           | Produtos com alta participação de mercado e alto crescimento. Precisam de investimento. | Nubank, TikTok, Notion          |
 | 🐄 **Vacas Leiteiras (Cash Cows)**| Produtos consolidados, que geram receita constante e sustentam outros investimentos.     | Google Search, WhatsApp, Netflix|
 | ❓ **Interrogações (Question Marks)** | Produtos promissores, mas que ainda não se provaram. Precisam de decisões estratégicas.   | Threads,  Metaverso       |
-| 🐢 **Abacaxis (Dogs)**           | Produtos com baixa participação e crescimento. Exigem reavaliação ou descontinuação.      | Orkut, Yahoo Messenger|
+| 🐢 **Abacaxis**           | Produtos com baixa participação e crescimento. Exigem reavaliação ou descontinuação.      | Orkut, Yahoo Messenger|
 
 ---
 

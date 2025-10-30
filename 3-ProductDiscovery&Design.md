@@ -1,178 +1,154 @@
 # 📘 Product Discovery & Design  
 > **Material de Aula — Product Management**  
 
-O processo de **Product Discovery & Design** é a base para desenvolver produtos digitais relevantes, úteis e desejáveis.  
-Seu objetivo é **entender profundamente o problema**, **gerar hipóteses de solução** e **validar o que realmente entrega valor** — antes de investir tempo e recursos em desenvolvimento.  
+O **Product Discovery & Design** é a base do desenvolvimento de produtos digitais relevantes.  
+Seu propósito é **entender o problema, gerar hipóteses e validar soluções** antes de investir em desenvolvimento.  
 
 ---
 
-## 🧠 Fundamentos da Experiência do Usuário (UX)
+## 🧠 Fundamentos de Experiência do Usuário (UX)
 
-### 📖 O que é Experiência do Usuário (UX)
+### 📖 O que é UX  
+A **Experiência do Usuário (UX)** é o conjunto de percepções e emoções ao interagir com um produto.  
+O objetivo é **criar experiências úteis, simples e agradáveis**, alinhando **necessidades do usuário** e **objetivos do negócio**.  
 
-A **Experiência do Usuário (UX)** é o conjunto de percepções, emoções e respostas que uma pessoa tem ao interagir com um produto, serviço ou sistema.  
-O objetivo do design de UX é **criar experiências simples, agradáveis e úteis**, equilibrando as **necessidades do usuário** com os **objetivos de negócio**.  
-
-> 💡 Um bom design de UX **antecipa necessidades** e **remove fricções** no uso do produto.
-
----
-
-### 🔹 Os 6 Elementos do Design para Experiência
-
-1. **Estratégia:** compreender profundamente o que o usuário precisa e quais objetivos o produto deve atender.  
-2. **Escopo:** definir as funcionalidades e conteúdos que comporão a solução.  
-3. **Estrutura:** organizar o fluxo de interação e a hierarquia das informações.  
-4. **Esqueleto:** desenhar os layouts e a disposição de elementos interativos.  
-5. **Superfície:** aplicar o design visual (cores, tipografia, estilo, identidade).  
-6. **Feedback:** medir, testar e aprimorar continuamente a experiência.  
-
-Esses elementos se complementam, garantindo que a solução final **una estética, funcionalidade e propósito**.  
+> 💡 Um bom design de UX antecipa necessidades e reduz fricções.
 
 ---
 
-## 🤝 Colaboração entre Product Manager (PM) e UX Designer
+### 🔹 Os 6 Elementos do Design de UX
+1. **Estratégia:** entender o usuário e os objetivos do produto.  
+2. **Escopo:** definir funcionalidades e conteúdos.  
+3. **Estrutura:** organizar fluxos e hierarquias.  
+4. **Esqueleto:** criar layouts e interações.  
+5. **Superfície:** aplicar design visual e identidade.  
+6. **Feedback:** testar, medir e aprimorar continuamente.  
 
-O relacionamento entre **Product Manager (PM)** e **UX Designer** é essencial para o sucesso de um produto digital.  
-Enquanto o PM garante o **alinhamento estratégico e a priorização de valor**, o UX Designer transforma **insights de usuários em experiências tangíveis**.
-
-Ambos colaboram de forma contínua — desde o **Discovery até o Delivery** —, equilibrando **valor de negócio, tecnologia e experiência do usuário**.
-
-| Papel | Responsabilidades Principais |
-|-------|-------------------------------|
-| **Product Manager** | Identificar problemas reais, priorizar oportunidades, definir métricas de sucesso e alinhar a visão do produto. |
-| **UX Designer** | Entender comportamentos e motivações, mapear jornadas, criar fluxos e protótipos e testar hipóteses de solução. |
-
-> 🔁 A sinergia entre PM e UX garante que o produto seja **desejável, viável e sustentável**.
+> UX é o equilíbrio entre estética, funcionalidade e propósito.
 
 ---
 
-## 🔍 Exploração de Problemas e Descoberta de Oportunidades
+## 🤝 PM + UX Designer: uma parceria essencial  
 
-A fase de **Product Discovery** tem como meta **entender o problema antes de pensar na solução**.  
-O Product Manager lidera essa etapa, buscando dados, comportamentos e percepções que revelam **o que realmente precisa ser resolvido**.  
+| Papel | Foco Principal |
+|-------|----------------|
+| **Product Manager (PM)** | Entende o problema, define prioridades e mede resultados. |
+| **UX Designer** | Entende comportamentos, cria protótipos e valida soluções. |
 
-### 🧩 Definição do Problema
+O PM garante **alinhamento estratégico**.  
+O UX Designer transforma **insights em experiências reais**.  
 
-Um bom problema é:  
-- **Específico:** claramente delimitado e compreensível.  
-- **Mensurável:** possível de acompanhar com métricas.  
-- **Validado:** apoiado por dados e evidências reais.  
-
-Evite soluções prematuras antes de compreender a causa raiz.
+> 🔁 A colaboração garante produtos **desejáveis, viáveis e sustentáveis**.
 
 ---
 
-### 🔬 Métodos de Pesquisa com Usuários
+## 🔍 Product Discovery: entendendo o problema  
 
-A pesquisa é o ponto de partida do discovery. Ela permite **observar, ouvir e compreender o usuário** com base em fatos e não em suposições.  
+O **Discovery** busca entender o problema **antes da solução**.  
+Um bom problema é **específico, mensurável e validado com dados**.  
 
-Principais métodos:  
-- **Entrevistas em profundidade:** para explorar motivações e dores.  
-- **Pesquisa exploratória:** para observar padrões e comportamentos.  
-- **Análise de dados:** para interpretar o uso real e métricas do produto.  
-- **Mapas de empatia:** para visualizar o que o usuário pensa, sente, diz e faz.  
+### 🔬 Métodos de Pesquisa
+- **Entrevistas:** exploram dores e motivações.  
+- **Pesquisas exploratórias:** identificam padrões de comportamento.  
+- **Análise de dados:** mostra o uso real do produto.  
+- **Mapas de empatia:** revelam o que o usuário pensa, sente e faz.  
 
-> 💬 *Discovery é sobre aprender rápido e reduzir incertezas, não sobre ter todas as respostas de imediato.*
-
----
-
-## 💭 Ideação e Definição da Solução
-
-Depois de entender o problema, inicia-se a fase de **ideação**, em que o time gera hipóteses e cria alternativas de solução.  
-O objetivo é **transformar descobertas em propostas concretas**, que possam ser testadas e validadas rapidamente.
-
-### 🧠 Técnicas de Ideação
-
-- **Brainstorming estruturado:** geração colaborativa e controlada de ideias.  
-- **Crazy 8’s:** esboçar oito ideias em poucos minutos para estimular criatividade.  
-- **How Might We (Como poderíamos...):** formular perguntas que abram novas possibilidades.  
-- **Mapas de solução:** agrupar ideias e priorizar pelo impacto esperado.  
+> 🎯 *Discovery é sobre aprender rápido e reduzir incertezas.*
 
 ---
 
-### 🧰 Ferramentas de Priorização e Definição
+## 💡 Da Ideação à Solução  
 
-- **Matriz de esforço x impacto:** ajuda a escolher ideias de maior valor com menor esforço.  
-- **Storyboards:** narram a experiência do usuário em formato visual.  
-- **User Flows:** mostram os passos e decisões do usuário dentro do produto.  
+Após entender o problema, o time gera **hipóteses de solução** e as prioriza pelo valor.  
 
-Essas ferramentas ajudam a garantir que a solução escolhida seja **clara, viável e centrada no usuário**.  
+### 🧠 Técnicas de Ideação  
+- **Brainstorming estruturado**  
+- **How Might We (Como poderíamos...)**  
+- **Mapas de solução**  
 
----
+### 🧰 Priorização  
+- **Matriz Esforço x Impacto**  
+- **Storyboards** (visualizam a experiência)  
+- **User Flows** (mostram o caminho do usuário)  
 
-### 🎨 Prototipagem e Teste de Ideias
-
-Prototipar é **dar forma às ideias** — de forma simples e rápida — para aprender com elas.  
-
-| Tipo | Descrição | Objetivo |
-|------|------------|-----------|
-| **Baixa fidelidade** | Rabiscos ou wireframes simples. | Validar ideias iniciais e fluxos gerais. |
-| **Média fidelidade** | Layouts estruturados com elementos visuais básicos. | Testar navegação e usabilidade. |
-| **Alta fidelidade** | Protótipos interativos e realistas. | Avaliar a experiência final antes do desenvolvimento. |
-
-> 💡 O protótipo é uma ferramenta de aprendizado, não de aprovação visual.
+> O foco é escolher soluções **claras, viáveis e centradas no usuário**.
 
 ---
 
-## 🧩 Validação e Iteração Contínua
+## 🎨 Prototipagem e Testes  
 
-A **validação** confirma se a solução realmente resolve o problema identificado.  
-O processo é cíclico: **descobrir → testar → ajustar → aprender**.
+Prototipar é **dar forma às ideias para aprender rapidamente**.  
 
-### ✅ Formas de Validação
+| Tipo | Objetivo |
+|------|-----------|
+| **Baixa fidelidade** | Validar ideias iniciais e fluxos gerais. |
+| **Média fidelidade** | Testar navegação e usabilidade. |
+| **Alta fidelidade** | Simular a experiência final antes do desenvolvimento. |
 
-- **Testes de usabilidade:** observar como usuários reais interagem com o protótipo.  
-- **A/B testing:** comparar diferentes versões de uma interface.  
-- **Entrevistas pós-teste:** entender percepções e sentimentos após o uso.  
-
-### 🧪 Boas Práticas de Teste
-
-- Mantenha neutralidade durante a condução.  
-- Observe mais do que pergunte.  
-- Registre comportamentos, não apenas respostas verbais.  
-- Faça perguntas abertas e curtas.  
-
-> 🔁 *Iterar é parte do processo: cada teste revela oportunidades de melhoria.*
+> 💡 O protótipo serve para **aprender, não aprovar visualmente**.
 
 ---
 
-## 🗺️ Jornada do Usuário
+## ✅ Validação e Iteração  
 
-A **Jornada do Usuário** representa o caminho completo que alguém percorre ao interagir com um produto — desde o primeiro contato até a fidelização.  
-Mapear essa jornada ajuda o time a **entender emoções, frustrações e oportunidades** em cada etapa.
+A **validação** verifica se a solução realmente resolve o problema.  
+O ciclo é contínuo: **descobrir → testar → ajustar → aprender**.  
 
-### 📍 Etapas Principais da Jornada
+### Métodos comuns  
+- **Testes de usabilidade**  
+- **A/B Testing**  
+- **Entrevistas pós-teste**  
 
-1. **Descoberta:** o usuário conhece o produto ou serviço.  
-2. **Onboarding:** primeiros passos e aprendizado sobre como usar.  
-3. **Uso recorrente:** interação contínua e engajamento.  
-4. **WOW Moment:** quando o produto supera expectativas.  
-5. **AHA Moment:** quando o usuário percebe o verdadeiro valor.  
+### Boas práticas  
+- Observe mais, fale menos.  
+- Registre comportamentos, não só respostas.  
+- Faça perguntas abertas.  
 
-> *Uma jornada bem mapeada revela onde o produto encanta — e onde ele precisa evoluir.*
-
----
-
-### 🧭 Como Mapear a Jornada
-
-1. **Liste os pontos de contato** entre usuário e produto.  
-2. **Registre emoções, dores e oportunidades** em cada etapa.  
-3. **Visualize o fluxo completo** usando ferramentas como Miro, FigJam ou Lucidchart.  
-4. **Identifique pontos de fricção e momentos de encantamento.**
+> 🔁 Cada teste revela novas oportunidades de melhoria.
 
 ---
 
-## 🚀 Desafio
+## 🗺️ Jornada do Usuário  
 
-O desafio é aplicar os conceitos aprendidos e **mapear a experiência completa do usuário** em um produto digital real ou fictício.
+A **Jornada do Usuário** mostra o caminho do cliente desde o primeiro contato até a fidelização.  
+Ela ajuda a identificar **emoções, frustrações e oportunidades**.  
 
-Com base nas cinco etapas — Descoberta, Onboarding, Uso Recorrente, WOW Moment e AHA Moment —, descreva como o produto:  
+### Etapas Principais  
+1. **Descoberta** – o usuário conhece o produto.  
+2. **Onboarding** – aprende a usar.  
+3. **Uso Recorrente** – engajamento contínuo.  
+4. **WOW Moment** – o produto supera expectativas.  
+5. **AHA Moment** – o usuário percebe o valor real.  
 
-- É **descoberto** pelo usuário.  
-- **Apresenta valor** logo no primeiro uso.  
-- **Mantém o engajamento** com o passar do tempo.  
-- **Entrega momentos de encantamento (WOW)**.  
-- **Gera compreensão de valor (AHA)** que leva à fidelização.  
+> *Um bom mapa revela onde o produto encanta — e onde precisa evoluir.*
 
-🎯 **Monte um painel visual da jornada**, destacando emoções, expectativas e pontos de contato.  
-Use exemplos reais ou produtos que você desenvolveu — o importante é **mostrar como o valor é percebido ao longo do tempo**.  
+---
+
+## 🧭 Como Mapear a Jornada  
+
+1. Liste os **pontos de contato** com o usuário.  
+2. Registre **emoções e dores** em cada etapa.  
+3. Visualize o fluxo com **Miro, FigJam ou Lucidchart**.  
+4. Identifique **fricções e oportunidades** de encantamento.  
+
+---
+
+## 🚀 Desafio Prático  
+
+**Mapeie a jornada completa do usuário** em um produto real ou fictício.  
+Use as cinco etapas: Descoberta, Onboarding, Uso Recorrente, WOW e AHA.  
+
+Explique como o produto:  
+- É descoberto e apresenta valor.  
+- Mantém engajamento ao longo do tempo.  
+- Gera encantamento (WOW) e compreensão de valor (AHA).  
+
+🎯 Crie um **painel visual** destacando emoções, expectativas e pontos de contato.  
+
+---
+
+## 📚 Referências  
+
+- CAGAN, Marty. *Inspired: How to Create Products Customers Love.* Wiley, 2018.  
+- KNAPP, Jake. *Sprint: O método usado no Google para testar e aplicar novas ideias em apenas cinco dias.*  
+- NORMAN, Don. *The Design of Everyday Things.* Basic Books, 2013.  

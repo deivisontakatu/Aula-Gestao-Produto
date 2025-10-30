@@ -38,6 +38,8 @@ Hoje, o gerenciamento de produtos é visto como uma **carreira multidisciplinar*
 - **Experiência do Usuário (UX):** representar o cliente e suas necessidades;  
 - **Tecnologia:** dialogar com engenheiros e compreender o funcionamento do produto.
 
+![Áreas da Gestão de Produto](https://pm3.com.br/wp-content/uploads/2020/12/zi9QYkZcTLer0cPC2KoT_what_is_a_product_manager.png)
+
 ---
 
 ## 🔄 O Gerenciamento Ágil de Produtos
@@ -63,8 +65,6 @@ O ideal é ter **menos gerentes, mas mais capacitados**, com foco em **comunica�
 > “O futuro do gerenciamento de produtos depende dos gerentes.  
 > O importante é aprender as lições do passado e aplicá-las de forma inteligente.”
 
-![Áreas da Gestão de Produto](https://pm3.com.br/wp-content/uploads/2020/12/zi9QYkZcTLer0cPC2KoT_what_is_a_product_manager.png)
-
 ---
 
 ## 📚 Conclusão
@@ -75,7 +75,7 @@ Hoje, o GP conecta **pessoas, processos e propósito**, garantindo que produtos 
 ---
 
 **Fonte:** Atlassian – *O passado, o presente e o futuro do amigo de longa data do método ágil: o gerenciamento de produtos*  
-[Atlassian. "Gerenciamento ágil de produto"](https://www.atlassian.com/br/agile/product-management)
-[Para mais informações, acessar esse link"](https://cpoclub.com/career/statistics-career-product-management/)
-
-
+- CPO Club. "Statistics & Career — Product Management". Acessar: [https://cpoclub.com/career/statistics-career-product-management/](https://cpoclub.com/career/statistics-career-product-management/).  
+- CAGAN, Marty. *Inspired: How to Create Products Customers Love*. Wiley, 2018.  
+- REHKOFP, Max. *Gerenciamento ágil de produto*. Atlassian, 2023.  
+- KNAPP, Jake. *Sprint: O método usado no Google para testar e aplicar novas ideias em apenas cinco dias*.

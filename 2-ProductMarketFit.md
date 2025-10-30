@@ -3,6 +3,20 @@
 > **Material de Aula — Product Management**
 
 ---
+## 🧭 Introdução: O Papel do Product Market Fit na Gestão de Produtos
+
+O **Product Market Fit** representa o ponto em que o produto encontra **equilíbrio entre o que o mercado precisa e o que a empresa oferece**.  
+É quando o produto realmente **gera valor para o usuário** e **sustenta o crescimento do negócio** — não apenas por meio de marketing, mas porque **as pessoas amam e recomendam a solução espontaneamente**.
+
+Em uma boa estratégia de **Product Management**, o Product Market Fit é alcançado por meio de:
+- **compreensão profunda do problema do usuário** (discovery);
+- **definição clara da proposta de valor**;
+- **testes e validações rápidas** com MVPs;
+- e **análise constante de métricas de uso e satisfação**.
+
+Assim, os conceitos de **Business Model Canvas**, **Lean Canvas** e **Proposta de Valor** tornam-se ferramentas fundamentais para **mapear hipóteses, reduzir riscos e alinhar o produto às reais necessidades do público**.
+
+---
 
 ## 🧩 Business Model Canvas e Proposta de Produto
 
@@ -12,7 +26,7 @@ Ele representa, em um único quadro, todos os elementos essenciais do negócio.
 ### 📊 Estrutura do Business Model Canvas
 
 ![Exemplo de Business Model Canvas](https://miro.medium.com/v2/0*Gew7xxse9uN8Zkdz.jpg)
-> *Figura 1 — Exemplo visual do Business Model Canvas.*
+> *Figura — Exemplo visual do Business Model Canvas.*
 
 | Bloco | Descrição |
 |-------|------------|
@@ -30,25 +44,6 @@ Ele representa, em um único quadro, todos os elementos essenciais do negócio.
 
 ---
 
-### 🧠 Lean Canvas
-
-O **Lean Canvas** é uma variação do BMC voltada para **startups e produtos em estágio inicial**.  
-Ele foca mais em **problemas, soluções e métricas** do que em estrutura organizacional.
-
-| Elemento | Pergunta Central |
-|-----------|------------------|
-| Problema | Qual dor ou necessidade você resolve? |
-| Segmento de Clientes | Quem tem esse problema? |
-| Proposta de Valor | Por que seu produto é único? |
-| Solução | Como você resolve o problema? |
-| Canais | Como o cliente chega até você? |
-| Receita | Como você gera lucro? |
-| Custos | Quais são os principais custos? |
-| Métricas-Chave | Como medir o sucesso? |
-| Vantagem Injusta | O que te diferencia da concorrência? |
-
----
-
 ## 💡 Desenvolvendo a Proposta de Valor
 
 A **Proposta de Valor** é o coração do produto.  
@@ -59,17 +54,6 @@ Para construí-la, é importante responder a três perguntas:
 1. **Para quem estamos criando valor?**  
 2. **Qual problema estamos resolvendo?**  
 3. **Por que nossa solução é melhor ou diferente?**
-
----
-
-### 🔍 Características de uma Proposta de Valor Forte
-
-- **Clareza:** fácil de entender, sem jargões;  
-- **Relevância:** comunica diretamente o benefício ao usuário;  
-- **Diferenciação:** mostra o que o produto tem de único;  
-- **Evidência:** apoia-se em resultados, dados e prova social.
-
-> 💬 *“Uma proposta de valor forte fala a língua do usuário e entrega o que ele realmente precisa.”*
 
 ---
 
@@ -90,7 +74,11 @@ O **Product Market Fit** representa o momento em que o produto encontra **encaix
 - Demanda superior à capacidade inicial de entrega;  
 - Métricas de engajamento crescentes.
 
-> 💬 *Alcançar o Product Market Fit é o primeiro grande marco de sucesso de um produto digital.*
+🌍 Empresas que alcançam o Product Market Fit conseguem:
+- Reduzir custos de aquisição de clientes (CAC);
+- Aumentar a retenção e o engajamento;
+- Acelerar o crescimento orgânico;
+- Obter vantagem competitiva sustentável.
 
 ---
 
